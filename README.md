@@ -6,7 +6,7 @@ Hi, I'm Xander. I'm going into my fourth year at Harvard, where I study computer
 
 ## Writing
 
-[Toy Grokking with a Linear Model]()
+[Toy Grokking with a Linear Model](writing/toy_grok/toy_grok.html)
 
 [Gradient Descent's Implicit Bias on Separable Data](writing/implicit_bias_sgd/gd_imp_sep.html)
 
