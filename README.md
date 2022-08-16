@@ -8,6 +8,6 @@ Hi, I'm Xander. I'm going into my fourth year at Harvard, where I study computer
 
 [Toy Grokking with a Linear Model]()
 
-[Gradient Descent's Implicit Bias on Separable Data](writing/implicit_bias_sgd/GD’s Implicit Bias on Separable Data.html)
+[Gradient Descent's Implicit Bias on Separable Data](writing/implicit_bias_sgd/gd_imp_sep.html)
 
 [Announcing the Harvard AI Safety Team](https://forum.effectivealtruism.org/posts/NvzeAtoynxGjDnWkp/announcing-the-harvard-ai-safety-team#Future%20Plans%20and%20Path%20to%20Impact)
