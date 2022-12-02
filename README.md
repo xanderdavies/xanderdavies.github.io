@@ -4,6 +4,13 @@
 
 Hi, I'm Xander. I'm going into my fourth year at Harvard, where I study computer science. I lead the [Harvard AI Safety Team](https://harvardaist.org), and currently do deep learning theory research with [David Krueger](https://www.davidscottkrueger.com/)'s lab at Cambridge University. I'm interested in making sure advanced AI is developed safely. I also enjoy writing, chess, listening to music, and [playing](https://drive.google.com/file/d/1a9ItWvJHRpqune1srF5lVXOg2osX_imA/view?usp=sharing) [piano](https://drive.google.com/file/d/1FPIZnW3uex4eCUomlKBqNMdyqf958JVi/view?usp=sharing). If you'd like to discuss any of this, feel free to email me at alexander_davies [at] college [dot] harvard [dot] edu.
 
+## Publications
+
+**Davies, X.**, Langosco, L., & Krueger, D. (2022). [Unifying Grokking and Double Descent](https://drive.google.com/drive/u/1/recent). *NeurIPS ML Safety Workshop.*
+
+Bricken, T., **Davies, X.**, Singh, D., Krotov, D., & Kreiman, G. (2022, November 15). [Sparse Distributed Memory is a Continual Learner](https://drive.google.com/file/d/1tJhRO6JfCo2yPatnYXweiGL7sQDYYLpE/view?usp=sharing). *In review, ICLR 2022.*
+
+
 ## Writing
 
 [Toy Grokking with a Linear Model](writing/toy_grok/toy_grok.html)
