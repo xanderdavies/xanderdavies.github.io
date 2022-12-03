@@ -13,6 +13,8 @@ Bricken, T., **Davies, X.**, Singh, D., Krotov, D., & Kreiman, G. (2022, Novembe
 
 ## Writing
 
+[Update on Harvard AI Safety Team and MIT AI Alignment](https://www.lesswrong.com/posts/LShJtvwDf4AMo992L#)
+
 [Toy Grokking with a Linear Model](writing/toy_grok/toy_grok.html)
 
 [Gradient Descent's Implicit Bias on Separable Data](writing/implicit_bias_sgd/gd_imp_sep.html)
