@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/55059966/205596332-86fcf764-2eb6-4933-8f1c-eee0fa26593b.jpeg" alt="xander" width="200"/>
 
-Hi, I'm Xander. I'm going into my fourth year at Harvard, where I study computer science. I lead the [Harvard AI Safety Team](https://harvardaist.org), and currently do deep learning theory research with [David Krueger](https://www.davidscottkrueger.com/)'s lab at Cambridge University. I'm interested in making sure advanced AI is developed safely. I also enjoy writing, chess, listening to music, and [playing](https://drive.google.com/file/d/1a9ItWvJHRpqune1srF5lVXOg2osX_imA/view?usp=sharing) [piano](https://drive.google.com/file/d/1FPIZnW3uex4eCUomlKBqNMdyqf958JVi/view?usp=sharing). If you'd like to discuss any of this, feel free to email me at alexander_davies [at] college [dot] harvard [dot] edu.
+Hi, I'm Xander. I'm going into my fourth year at Harvard, where I study computer science. I lead the [Harvard AI Safety Team](https://harvardaist.org), and currently do deep learning theory research with [David Krueger](https://www.davidscottkrueger.com/)'s lab at Cambridge University. I'm interested in making sure advanced AI is developed safely. I also enjoy writing, chess, listening to music, [and](https://drive.google.com/file/d/1a9ItWvJHRpqune1srF5lVXOg2osX_imA/view?usp=sharing) [playing](https://drive.google.com/file/d/1FPIZnW3uex4eCUomlKBqNMdyqf958JVi/view?usp=sharing) [piano](https://drive.google.com/file/d/1VRXvsDpkhYVeTdmUOT2_Lwfewkui3c_0/view?usp=sharing). If you'd like to discuss any of this, feel free to email me at alexander_davies [at] college [dot] harvard [dot] edu.
 
 ## Publications
 
