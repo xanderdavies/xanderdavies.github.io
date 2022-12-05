@@ -1,6 +1,6 @@
 # Xander Davies
 
-<img src="https://user-images.githubusercontent.com/55059966/184758103-6358d0c3-1423-4c3c-b2b4-b28c9ea9cb44.jpeg" alt="xander" width="200"/>
+<img src="https://user-images.githubusercontent.com/55059966/205596332-86fcf764-2eb6-4933-8f1c-eee0fa26593b.jpeg" alt="xander" width="200"/>
 
 Hi, I'm Xander. I'm going into my fourth year at Harvard, where I study computer science. I lead the [Harvard AI Safety Team](https://harvardaist.org), and currently do deep learning theory research with [David Krueger](https://www.davidscottkrueger.com/)'s lab at Cambridge University. I'm interested in making sure advanced AI is developed safely. I also enjoy writing, chess, listening to music, and [playing](https://drive.google.com/file/d/1a9ItWvJHRpqune1srF5lVXOg2osX_imA/view?usp=sharing) [piano](https://drive.google.com/file/d/1FPIZnW3uex4eCUomlKBqNMdyqf958JVi/view?usp=sharing). If you'd like to discuss any of this, feel free to email me at alexander_davies [at] college [dot] harvard [dot] edu.
 
