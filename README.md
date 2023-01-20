@@ -8,7 +8,7 @@ Hi, I'm Xander. I'm going into my fourth year at Harvard, where I study computer
 
 **Davies, X.\***, Langosco, L.\*, & Krueger, D. (2022). [Unifying Grokking and Double Descent](https://xanderdavies.com/grokking_dd.pdf). In *2022 NeurIPS ML Safety Workshop.*
 
-Bricken, T., **Davies, X.**, Singh, D., Krotov, D., & Kreiman, G. (2022). [Sparse Distributed Memory is a Continual Learner](https://xanderdavies.com/sdm_cl.pdf). In *ICLR 2022.*
+Bricken, T., **Davies, X.**, Singh, D., Krotov, D., & Kreiman, G. (2022). [Sparse Distributed Memory is a Continual Learner](https://xanderdavies.com/sdm_cl.pdf). In *ICLR 2023.*
 
 
 ## Writing
