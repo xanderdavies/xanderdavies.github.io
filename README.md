@@ -2,13 +2,13 @@
 
 <img src="https://user-images.githubusercontent.com/55059966/205596332-86fcf764-2eb6-4933-8f1c-eee0fa26593b.jpeg" alt="xander" width="200"/>
 
-Hi, I'm Xander. I'm going into my fourth year at Harvard, where I study computer science. I'm currently working at Redwood Research, where I'm co-running the [REMIX interpretability residency](https://www.redwoodresearch.org/remix). I lead the [Harvard AI Safety Team](https://harvardaist.org), and previously researched grokking and double descent with [David Krueger](https://www.davidscottkrueger.com/)'s lab at Cambridge University. I'm interested in making sure advanced AI is developed safely. I also enjoy writing, chess, listening to music, [and](https://drive.google.com/file/d/1a9ItWvJHRpqune1srF5lVXOg2osX_imA/view?usp=sharing) [playing](https://drive.google.com/file/d/1FPIZnW3uex4eCUomlKBqNMdyqf958JVi/view?usp=sharing) [piano](https://drive.google.com/file/d/1VRXvsDpkhYVeTdmUOT2_Lwfewkui3c_0/view?usp=sharing)[.](https://drive.google.com/file/d/1_RGtxt5Vn9Ob8-DvfG3AxNICyObTnwqf/view?usp=sharing) If you'd like to discuss any of this, feel free to email me at alexander_davies [at] college [dot] harvard [dot] edu.
+Hi, I'm Xander. I'm going into my fourth year at Harvard, where I study computer science. I lead the [Harvard AI Safety Team](https://harvardaist.org), and previously co-led Redwood Research's [REMIX interpretability residency](https://www.redwoodresearch.org/remix). I've previously researched grokking and double descent with [David Krueger](https://www.davidscottkrueger.com/)'s lab at Cambridge University, and am now working on mechanistic interpretability with [David Bau](https://baulab.info/) at Northeastern University. I'm interested in making sure advanced AI is developed safely. I also enjoy writing, chess, listening to music, [and](https://drive.google.com/file/d/1a9ItWvJHRpqune1srF5lVXOg2osX_imA/view?usp=sharing) [playing](https://drive.google.com/file/d/1FPIZnW3uex4eCUomlKBqNMdyqf958JVi/view?usp=sharing) [piano](https://drive.google.com/file/d/1VRXvsDpkhYVeTdmUOT2_Lwfewkui3c_0/view?usp=sharing)[.](https://drive.google.com/file/d/1_RGtxt5Vn9Ob8-DvfG3AxNICyObTnwqf/view?usp=sharing) If you'd like to discuss any of this, feel free to email me at alexander_davies [at] college [dot] harvard [dot] edu.
 
 ## Publications
 
 **Davies, X.\***, Langosco, L.\*, & Krueger, D. (2022). [Unifying Grokking and Double Descent](https://xanderdavies.com/grokking_dd.pdf). In *2022 NeurIPS ML Safety Workshop.*
 
-Bricken, T., **Davies, X.**, Singh, D., Krotov, D., & Kreiman, G. (2022). [Sparse Distributed Memory is a Continual Learner](https://xanderdavies.com/sdm_cl.pdf). In *ICLR 2023.*
+Bricken, T., **Davies, X.**, Singh, D., Krotov, D., & Kreiman, G. (2023). [Sparse Distributed Memory is a Continual Learner](https://xanderdavies.com/sdm_cl.pdf). In *ICLR 2023.*
 
 
 ## Writing
