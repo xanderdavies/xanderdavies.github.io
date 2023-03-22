@@ -13,7 +13,7 @@ Bricken, T., **Davies, X.**, Singh, D., Krotov, D., & Kreiman, G. (2023). [Spars
 
 ## Writing & Press
 
-[Undergraduates Ramp Up Harvard AI Safety Team Amid Concerns Over Increasingly Powerful AI Models](https://www.thecrimson.com/article/2023/3/22/haist-ai-safety/)
+[Harvard Crimson: Undergraduates Ramp Up Harvard AI Safety Team Amid Concerns Over Increasingly Powerful AI Models](https://www.thecrimson.com/article/2023/3/22/haist-ai-safety/)
 
 [Update on Harvard AI Safety Team and MIT AI Alignment](https://www.lesswrong.com/posts/LShJtvwDf4AMo992L#)
 
