@@ -11,7 +11,9 @@ Hi, I'm Xander. I'm going into my fourth year at Harvard, where I study computer
 Bricken, T., **Davies, X.**, Singh, D., Krotov, D., & Kreiman, G. (2023). [Sparse Distributed Memory is a Continual Learner](https://xanderdavies.com/sdm_cl.pdf). In *ICLR 2023.*
 
 
-## Writing
+## Writing & Press
+
+[Undergraduates Ramp Up Harvard AI Safety Team Amid Concerns Over Increasingly Powerful AI Models](https://www.thecrimson.com/article/2023/3/22/haist-ai-safety/)
 
 [Update on Harvard AI Safety Team and MIT AI Alignment](https://www.lesswrong.com/posts/LShJtvwDf4AMo992L#)
 
