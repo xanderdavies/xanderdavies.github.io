@@ -6,9 +6,9 @@ Hi, I'm Xander. I've just graduated Harvard, where I studied computer science. D
 
 ## Publications
 
-*[Forthcoming] Discovering Variable Binding Circuitry with Desiderata.*
+**Davies, X.\***, Nadeau, M.\*, Prakash, N.\*, Shaham, T, & Bau, D. (2023). [Discovering Variable Binding Circuitry with Desiderata](https://openreview.net/forum?id=uoqOpOIp34). In *2023 ICLR Workshop on Deployment Challenges for Generative AI.*
 
-*[Forthcoming] Circuit Breaking: Removing Model Behaviors with Targeted Ablation.*
+Li, M.\*, **Davies, X.**\*, & Nadeau, M.\* (2023). [Circuit Breaking: Removing Model Behaviors with Targeted Ablation.](https://openreview.net/forum?id=ytYaiSQNCB). In *2023 ICLR Workshop on Deployment Challenges for Generative AI.*
 
 **Davies, X.\***, Langosco, L.\*, & Krueger, D. (2022). [Unifying Grokking and Double Descent](https://arxiv.org/abs/2303.06173). In *2022 NeurIPS ML Safety Workshop.*
 
