@@ -6,7 +6,7 @@ Hi, I'm Xander. I've just graduated Harvard, where I studied computer science. D
 
 ## Publications
 
-**Davies, X.\***, Nadeau, M.\*, Prakash, N.\*, Shaham, T, & Bau, D. (2023). [Discovering Variable Binding Circuitry with Desiderata](https://openreview.net/forum?id=uoqOpOIp34). In *2023 ICML Workshop on Deployment Challenges for Generative AI.*
+**Davies, X.\***, Nadeau, M.\*, Prakash, N.\*, Shaham, T, & Bau, D. (2023). [Discovering Variable Binding Circuitry with Desiderata]([https://openreview.net/forum?id=uoqOpOIp34](https://arxiv.org/abs/2307.03637)). In *2023 ICML Workshop on Deployment Challenges for Generative AI.*
 
 Li, M.\*, **Davies, X.**\*, & Nadeau, M.\* (2023). [Circuit Breaking: Removing Model Behaviors with Targeted Ablation](https://openreview.net/forum?id=ytYaiSQNCB). In *2023 ICML Workshop on Deployment Challenges for Generative AI.*
 
