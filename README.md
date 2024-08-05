@@ -5,7 +5,7 @@
 Hi, I'm Xander. I'm a member of the technical staff at the [UK AI Safety Institute](https://x.com/alxndrdavies/status/1720435535855149513?s=20), where I work on AI safety and security. I previously studied computer science at Harvard, where I founded and led the [Harvard AI Safety Team](https://harvardaist.org), a student group aimed at supporting students in conducting research to reduce risks from advanced AI. I've also worked with [David Krueger](https://www.davidscottkrueger.com/)'s lab at Cambridge University, [David Bau](https://baulab.info/)'s lab at Northeastern University, and [Redwood Research](www.redwoodresearch.org). I enjoy writing, chess, listening to music, [and](https://drive.google.com/file/d/1a9ItWvJHRpqune1srF5lVXOg2osX_imA/view?usp=sharing) [playing](https://drive.google.com/file/d/1FPIZnW3uex4eCUomlKBqNMdyqf958JVi/view?usp=sharing) [piano](https://drive.google.com/file/d/1VRXvsDpkhYVeTdmUOT2_Lwfewkui3c_0/view?usp=sharing)[.](https://drive.google.com/file/d/1_RGtxt5Vn9Ob8-DvfG3AxNICyObTnwqf/view?usp=sharing) If you'd like to discuss any of this, feel free to email me at alexanderlaserdavies [at] yahoo [dot] com.
 
 ## Publications
-_[Google Scholar](https://scholar.google.com/citations?user=69geBIoAAAAJ)_
+_[Google Scholar](https://scholar.google.com/citations?user=aPFGk-AAAAAJ)_
 
 _\* = Equal Contribution._
   
